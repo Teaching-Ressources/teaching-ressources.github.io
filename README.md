@@ -1,5 +1,5 @@
-# Awesome Links & Ressources for Teaching in Media, Design, Art, Creative Tech ect.
-> The Idea is to collect & link to ressources for teaching.
+# Awesome Links & Ressources for Teaching
+> The Idea is to collect & link to ressources for teaching in Media, Design, Art, Creative Tech ect.
 
 
 ### Books about Teaching & Assignments
