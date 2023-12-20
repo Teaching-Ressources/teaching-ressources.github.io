@@ -5,6 +5,7 @@
 ### Books about Teaching & Assignments
 - [Code as Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)
 - [Teaching Graphic Design](https://teachinggraphicdesign.com/)
+- [How I Teach](https://www.wonderfulnarrative.com/pdf/kolko_how_I_teach.pdf) - also in the resources collection below
 
 ### Teaching Ressources
 - https://www.wonderfulnarrative.com/resource-library
