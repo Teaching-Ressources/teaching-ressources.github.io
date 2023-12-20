@@ -7,4 +7,8 @@
 
 ### Teaching Ressources
 - https://www.wonderfulnarrative.com/resource-library
+
+### Podcasts 
+- [99% Invisible](https://99percentinvisible.org/)
+- [Podcast des Deutschen Designerclubs](https://www.ddc.de/de/magazin/ddcast.php)
 - 
